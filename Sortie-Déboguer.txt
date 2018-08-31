@@ -1,0 +1,8 @@
+﻿'dotnet.exe' (CoreCLR: DefaultDomain) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.3-servicing-26724-03\System.Private.CoreLib.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'P:\ICT\226a\Projet1\Projet1\bin\Debug\netcoreapp2.1\Projet1.dll'. Les symboles ont été chargés.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.3-servicing-26724-03\System.Runtime.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.3-servicing-26724-03\System.Console.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.3-servicing-26724-03\System.Threading.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+'dotnet.exe' (CoreCLR: clrhost) : Chargé 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\2.1.3-servicing-26724-03\System.Runtime.Extensions.dll'. Chargement des symboles ignoré. Le module est optimisé et l'option du débogueur 'Uniquement mon code' est activée.
+Le programme '[7000] dotnet.exe: Trace du programme' s'est arrêté avec le code 0 (0x0).
+Le programme '[7000] dotnet.exe' s'est arrêté avec le code 0 (0x0).
